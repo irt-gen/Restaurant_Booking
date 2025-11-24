@@ -34,7 +34,7 @@ The core innovation is the AI’s ability to recognize intent and execute code r
 
 > **📸 Screenshot Placeholder**
 >
-> ![Dynamic Response Handling](path/to/your/image_A.png)
+> ![Dynamic Response Handling](./images/ca.png)
 > *Caption: Dynamic Response Handling: The AI queries the database and triggers a client-side UI component (Carousel) instead of returning raw text.*
 
 ### B. Structured Output & State Management
