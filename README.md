@@ -45,7 +45,9 @@ One of the hardest challenges in AI is getting consistent data formats. We utili
 
 > **📸 Screenshot Placeholder**
 >
-> ![Generative UI](path/to/your/image_B.png)
+> ![Generative UI](./images/b1.png)
+> ![Generative UI](./images/b2.png)
+> ![Generative UI](./images/b3.png)
 > *Caption: Generative UI: The model recognizes the need for precise date input and renders a React/Native date-picker component on the fly.*
 
 ### C. Context-Aware External Integrations
@@ -56,7 +58,7 @@ We demonstrated the SDK's ability to handle multi-modal context. The agent isn't
 
 > **📸 Screenshot Placeholder**
 >
-> ![Geospatial Tooling](path/to/your/image_C.png)
+> ![Geospatial Tooling](./images/ma.png)
 > *Caption: Geospatial Tooling: The Agent plots data points on a map layer, proving the SDK can control complex visual states beyond simple text bubbles.*
 
 ---
