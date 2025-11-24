@@ -90,4 +90,4 @@ This POC demonstrates our ability to integrate OpenAI's most advanced features i
 
 *Ready to move beyond the chatbot?*
 
-[Insert Contact Information / Link to Portfolio]
+gamesai@geniteam.com
