@@ -1,0 +1,194 @@
+{
+  "places": [
+    {
+      "id": "nova-slice-lab",
+      "name": "Eagle Cafe",
+      "coords": [-157.8716, 21.32411],
+      "description": "Award‑winning in North Beach.",
+      "city": "North Beach",
+      "rating": 4.0,
+      "price": "$$$",
+      "thumbnail": "https://eaglecafe.com/wp-content/uploads/2022/12/EC_HeroBurgerPancakeView_EW_H.jpg",
+      "hours": {
+        "Mon": "7:00 AM - 3:00 PM",
+        "Tue": "7:00 AM - 3:00 PM",
+        "Wed": "7:00 AM - 3:00 PM",
+        "Thu": "7:00 AM - 3:00 PM",
+        "Fri": "7:00 AM - 3:00 PM",
+        "Sat": "7:00 AM - 3:00 PM",
+        "Sun": "7:00 AM - 3:00 PM"
+      }
+    },
+    {
+      "id": "midnight-marinara",
+      "name": "Mo's Grill",
+      "coords": [-122.40962070015529, 37.803364944403384],
+      "description": "Focaccia‑style squares, late‑night favorite.",
+      "city": "North Beach",
+      "rating": 4.6,
+      "price": "$",
+      "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/06/34/63/6a/mo-s-grill.jpg",
+      "hours": {
+        "Mon": "11:00 AM - 2:00 AM",
+        "Tue": "11:00 AM - 2:00 AM",
+        "Wed": "11:00 AM - 2:00 AM",
+        "Thu": "11:00 AM - 2:00 AM",
+        "Fri": "11:00 AM - 4:00 AM",
+        "Sat": "11:00 AM - 4:00 AM",
+        "Sun": "11:00 AM - 12:00 AM"
+      }
+    },
+    {
+      "id": "cinder-oven-co",
+      "name": "DJ Sushi",
+      "coords": [-122.40375377265882, 37.8024826948551],
+      "description": "We the best Sushi",
+      "city": "North Beach",
+      "rating": 5,
+      "price": "$$",
+      "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/22/b5/a7/four-seasons-roll.jpg?w=900&h=500&s=1",
+      "hours": {
+        "Mon": "Closed",
+        "Tue": "5:00 PM - 10:00 PM",
+        "Wed": "5:00 PM - 10:00 PM",
+        "Thu": "5:00 PM - 10:00 PM",
+        "Fri": "5:00 PM - 11:00 PM",
+        "Sat": "5:00 PM - 11:00 PM",
+        "Sun": "5:00 PM - 9:30 PM"
+      }
+    },
+    {
+      "id": "neon-crust-works",
+      "name": "Nopa",
+      "coords": [-122.43742346763042, 37.77509070361566],
+      "description": "Nopa Restaurant",
+      "city": "Alamo Square",
+      "rating": 4.4,
+      "price": "$$",
+      "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ff/d9/8f/nopa.jpg?w=900&h=500&s=1",
+      "hours": {
+        "Mon": "5:00 PM - 1:00 AM",
+        "Tue": "5:00 PM - 1:00 AM",
+        "Wed": "5:00 PM - 1:00 AM",
+        "Thu": "5:00 PM - 1:00 AM",
+        "Fri": "5:00 PM - 1:00 AM",
+        "Sat": "10:30 AM - 1:00 AM",
+        "Sun": "10:30 AM - 1:00 AM"
+      }
+    },
+    {
+      "id": "luna-pie-collective",
+      "name": "Luna Pie Collective",
+      "coords": [-122.4077, 37.7990],
+      "description": "Wood‑fired pies and burrata in North Beach.",
+      "city": "North Beach",
+      "rating": 4.6,
+      "price": "$$",
+      "thumbnail": "https://persistent.oaistatic.com/pizzaz/pizzaz-4.png",
+      "hours": {
+        "Mon": "11:00 AM - 10:00 PM",
+        "Tue": "11:00 AM - 10:00 PM",
+        "Wed": "11:00 AM - 10:00 PM",
+        "Thu": "11:00 AM - 10:00 PM",
+        "Fri": "11:00 AM - 11:00 PM",
+        "Sat": "11:00 AM - 11:00 PM",
+        "Sun": "11:00 AM - 10:00 PM"
+      }
+    },
+    {
+      "id": "bricklight-deep-dish",
+      "name": "Bricklight Deep Dish",
+      "coords": [-122.4097, 37.7992],
+      "description": "Chicago‑style pies from Tony Gemignani.",
+      "city": "North Beach",
+      "rating": 4.4,
+      "price": "$$$",
+      "thumbnail": "https://persistent.oaistatic.com/pizzaz/pizzaz-5.png",
+      "hours": {
+        "Mon": "4:00 PM - 10:00 PM",
+        "Tue": "Closed",
+        "Wed": "4:00 PM - 10:00 PM",
+        "Thu": "4:00 PM - 10:00 PM",
+        "Fri": "12:00 PM - 11:00 PM",
+        "Sat": "12:00 PM - 11:00 PM",
+        "Sun": "12:00 PM - 10:00 PM"
+      }
+    },
+    {
+      "id": "garden-ember-pies",
+      "name": "Garden Ember Pies",
+      "coords": [-122.4380, 37.7722],
+      "description": "Neighborhood spot with seasonal toppings.",
+      "city": "Lower Haight",
+      "rating": 4.4,
+      "price": "$$",
+      "thumbnail": "https://persistent.oaistatic.com/pizzaz/pizzaz-1.png",
+      "hours": {
+        "Mon": "5:00 PM - 9:30 PM",
+        "Tue": "5:00 PM - 9:30 PM",
+        "Wed": "5:00 PM - 9:30 PM",
+        "Thu": "5:00 PM - 9:30 PM",
+        "Fri": "5:00 PM - 10:00 PM",
+        "Sat": "5:00 PM - 10:00 PM",
+        "Sun": "5:00 PM - 9:00 PM"
+      }
+    },
+    {
+      "id": "atlas-fire-pizzeria",
+      "name": "AltoVino",
+      "coords": [-122.41147539985688, 37.79752120916321],
+      "description": "Alto means big in spanish and vino is wine",
+      "city": "Nob Hill",
+      "rating": 4.6,
+      "price": "$$$",
+      "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/12/f8/94/dining-room.jpg?w=900&h=500&s=1",
+      "hours": {
+        "Mon": "5:00 PM - 9:30 PM",
+        "Tue": "Closed",
+        "Wed": "5:00 PM - 9:30 PM",
+        "Thu": "5:00 PM - 9:30 PM",
+        "Fri": "5:00 PM - 10:00 PM",
+        "Sat": "5:00 PM - 10:00 PM",
+        "Sun": "4:30 PM - 9:00 PM"
+      }
+    },
+    {
+      "id": "circuit-slice-garage",
+      "name": "Fog Harbor Fish House",
+      "coords": [-122.40994801763841, 37.81398526848364],
+      "description": "Crispy‑edged Detroit‑style in SoMa.",
+      "city": "SoMa",
+      "rating": 4.4,
+      "price": "$$",
+      "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/04/6c/8d/01/fog-harbor-fish-house.jpg",
+      "hours": {
+        "Mon": "11:00 AM - 9:00 PM",
+        "Tue": "11:00 AM - 9:00 PM",
+        "Wed": "11:00 AM - 9:00 PM",
+        "Thu": "11:00 AM - 9:00 PM",
+        "Fri": "11:00 AM - 10:00 PM",
+        "Sat": "10:30 AM - 10:00 PM",
+        "Sun": "10:30 AM - 9:00 PM"
+      }
+    },
+    {
+      "id": "velvet-mozza-lounge",
+      "name": "Velvet Mozza Lounge",
+      "coords": [-122.4019, 37.7818],
+      "description": "Bianca pies and cocktails near Yerba Buena.",
+      "city": "Yerba Buena",
+      "rating": 4.3,
+      "price": "$$",
+      "thumbnail": "https://persistent.oaistatic.com/pizzaz/pizzaz-6.png",
+      "hours": {
+        "Mon": "4:00 PM - 11:00 PM",
+        "Tue": "4:00 PM - 11:00 PM",
+        "Wed": "4:00 PM - 11:00 PM",
+        "Thu": "4:00 PM - 12:00 AM",
+        "Fri": "4:00 PM - 2:00 AM",
+        "Sat": "4:00 PM - 2:00 AM",
+        "Sun": "4:00 PM - 11:00 PM"
+      }
+    }
+  ]
+}

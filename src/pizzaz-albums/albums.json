@@ -1,0 +1,107 @@
+{
+  "albums": [
+    {
+      "id": "summer-escape",
+      "title": "Eagle Cafe",
+      "cover": "https://eaglecafe.com/wp-content/uploads/2022/12/EC_HeroBurgerPancakeView_EW_H.jpg",
+      "photos": [
+        {
+          "id": "s1",
+          "title": "Classic Lasagna",
+          "url": "https://i.ytimg.com/vi/KJcE5Xo_93k/maxresdefault.jpg"
+        },
+        {
+          "id": "s2",
+          "title": "Fluffy Pancakes Stack",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuH8VeX6T0zNHI7TVjIDdIMh9iMko4lguEJQ&s"
+        },
+        {
+          "id": "s3",
+          "title": "Gourmet Cheeseburger",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmIrSdCsVWEqzEkXxspH69STPU_vNgnkRJQ&s"
+        }
+      ]
+    },
+    {
+      "id": "city-lights",
+      "title": "Fancy Sushi Restaurant Jazz",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLu8pTJ8RdnA8xqGWyKzhc0s4t3Ak2EUVsQ&s",
+      "photos": [
+        {
+          "id": "c1",
+          "title": "Assorted Sushi Platter",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx67bAfH18JEWaaEhg_UKq4lqw9lbmzdBjuw&s"
+        },
+        {
+          "id": "c2",
+          "title": "Fresh Sashimi Boat",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBT9TEZFOVsYkdCc2LlNAEE5-bZImvr8mheg&s"
+        },
+        {
+          "id": "c3",
+          "title": "Izakaya Neon Vibes",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK8JqonSVMGPemX2FYyYki_qfrdHplsWoKWA&s"
+        }
+      ]
+    },
+    {
+      "id": "into-the-woods",
+      "title": "Truffle Forest",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-I38IQzIr-nYwof8mm_yVMZyIzRvXwAMo1w&s",
+      "photos": [
+        {
+          "id": "n1",
+          "title": "Creamy Truffle Gnocchi",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9hNz1x99oFCcEVYekAH_zUqZ0OER5o66eQw&s"
+        },
+        {
+          "id": "n2",
+          "title": "Wild Mushroom Risotto",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lw5w868c2-thgkuebCLTybekunD-iJqVJw&s"
+        },
+        {
+          "id": "n3",
+          "title": "Decadent Chocolate Truffles",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzp3GZ-sLoBSM2goPllYVSrSHa0oGM3MrH0Q&s"
+        }
+      ]
+    },
+    {
+      "id": "pizza-tour",
+      "title": "Street Taco Tour",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkERDnunvocRxYBrWNrO2rhrhAVGnlrWt6kA&s",
+      "photos": [
+        {
+          "id": "t1",
+          "title": "Al Pastor Tacos",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdI2VOS6edRqZoOBSKyQPX0ifFUNbcxXutXw&s"
+        },
+        {
+          "id": "t2",
+          "title": "Birria Consome",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA5gM4Q9SSDonRas-IWAbgJQ6AbYtnHvLgLw&s"
+        },
+        {
+          "id": "t3",
+          "title": "Carne Asada Plate",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt84YrnROz3Y5YPhaiCXa6FdJ9asBjSX1Iw&s"
+        },
+        {
+          "id": "t4",
+          "title": "Fish Tacos Baja Style",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsnrOXdPBN84B8CDZMa8cdUEnPXUz_059Yg&s"
+        },
+        {
+          "id": "t5",
+          "title": "Street Corn (Elote)",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqR4UMtv1ByE7R29klt-_uirYVITGwTMcnQ&s"
+        },
+        {
+          "id": "t6",
+          "title": "Churros Dessert",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHFGsgw3Xp7ENR0l_RbBxCmBRljOOnr3KRw&s"
+        }
+      ]
+    }
+  ]
+}
